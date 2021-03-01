@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
+<img align="right" width="400" height="400" src="https://www.kdmeusite.com.br/wp-content/uploads/2019/09/mobileappdevelopement-405x405.gif">
 
 # Welcome!
 
