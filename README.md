@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="http://startupmonkey.in/wp-content/uploads/2020/02/mobile-app-tab2.gif">
+<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/1e/b8/df/1eb8dff28222a11acc3a1926a94d26fd.gif">
 
 # Welcome!
 
