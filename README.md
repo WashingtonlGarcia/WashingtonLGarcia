@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/1e/b8/df/1eb8dff28222a11acc3a1926a94d26fd.gif">
+<img align="right" width="400" height="400" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
 
 # Welcome!
 
