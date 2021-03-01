@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://miro.medium.com/max/1000/1*V4cV-UpcOn5sJ3hB75vdvA.gif">
+<img align="right" width="400" height="400" src="https://indianappdeveloper.com/wp-content/uploads/2020/02/reactjsapp.gif">
 
 # Welcome!
 
