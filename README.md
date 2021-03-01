@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.kdmeusite.com.br/wp-content/uploads/2019/09/mobileappdevelopement-405x405.gif">
+<img align="right" width="400" height="400" src="https://outyng.com/vendorApp/img/dev_app.GIF">
 
 # Welcome!
 
