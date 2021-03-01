@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://indianappdeveloper.com/wp-content/uploads/2020/02/reactjsapp.gif">
+<img align="right" width="400" height="400" src="http://startupmonkey.in/wp-content/uploads/2020/02/mobile-app-tab2.gif">
 
 # Welcome!
 
