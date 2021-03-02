@@ -1,4 +1,4 @@
-<img align="right" width="434" height="246" src="https://firebasestorage.googleapis.com/v0/b/dashatar-dev.appspot.com/o/dashatars%2FRGFzaGF0YXJfQm9udXNfU2V0c19Cb251c19F.png?alt=media">
+<img align="right" width="434" height="246" src="https://firebasestorage.googleapis.com/v0/b/dashatar-dev.appspot.com/o/dashatars%2FRGFzaGF0YXJfRGV2ZWxvcGVyX05ldXRyYWxfY29sb3JfUEdfc2hhZG93.png?alt=media">
 
 # Welcome!
 
